@@ -192,11 +192,12 @@
     "Menu":{
         "Inscricao": "Inscrição",
         "Sair": "Sair",
-        "Conteudo": "Conteúdo"
+        "Conteudo": "Conteúdo",
+        "Documentos": "Documentos"
     },
 
     "Upload":{
-        "Title":"Upload da página da foto do passaporte",
+        "Title":"Documentos",
         "Descricao":"Faça aqui o upload do seu passaporte digitalizado. Você deve definir a qual participante o arquivo é referente (titular ou acompanhante) para concluir a inscrição. Uma vez que a inscrição for concluída você não poderá mais alterar seus dados.",
         "SelecioneArraste": "Arraste seus arquivos aqui",
         "Ou": "ou",
